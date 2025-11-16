@@ -6,45 +6,5 @@
     "author": "Ольга Грищенко",
     "status": "published",
     "createdAt": "2025-11-16T19:39:38.803Z"
-  },
-  {
-    "id": 1763321801710,
-    "title": "первая статья",
-    "content": "```html\n<h2 style=\"color: #390084;\">Тестируем связку Forms → n8n → Tilda</h2>\n\n<ul>\n  <li>Пункт 1</li>\n  <li>Пункт 2</li>\n</ul>\n\n<h2 style=\"color: #390084;\">Подзаголовок H2</h2>\n\n<p>Заключительный текст.</p>\n```",
-    "author": "инга",
-    "status": "published",
-    "createdAt": "2025-11-16T19:36:41.710Z"
-  },
-  {
-    "id": 1763321328993,
-    "title": "первая статья",
-    "content": "<h2 style=\"color: #390084;\">Тестируем связку Forms → n8n → Tilda</h2>\n\n<ul>\n  <li>Пункт 1</li>\n  <li>Пункт 2</li>\n</ul>\n\n<h2 style=\"color: #390084;\">Подзаголовок H2</h2>\n\n<p>Заключительный текст.</p>",
-    "author": "инга",
-    "status": "published",
-    "createdAt": "2025-11-16T19:28:48.993Z"
-  },
-  {
-    "id": 1763321111203,
-    "title": "статья два",
-    "content": "\n<article>\n  <h2 style=\"color: #390084;\">Субличность Золотой рыбки</h2>\n  \n  <p>Однажды я поняла, что часто в отношениях я проживаю один и тот же сценарий.</p>\n  \n  <p>Человек знакомится со мной, я очаровываюсь его суперкачествами, мы начинаем сотрудничество.</p>\n  \n  <p>В начале все идет идеально: он помогает мне, я помогаю ему.</p>\n  \n  <p>Потом я начинаю замечать, что требования ко мне растут, становятся все больше, переходят в категорию <strong>«Ты должна!»</strong></p>\n  \n  <p>Я получаю минимальный результат, а сама вкладываюсь все больше, и такое сотрудничество начинает меня сильно тяготить.</p>\n  \n  <p>Дальше в какой-то момент человек переходит красную черту допустимого, меня это возмущает, и мы прекращаем отношения.</p>\n  \n  <p style=\"color: #E9007C;\"><strong>В таких партнерствах я разыгрывала стратегию Золотой рыбки</strong>, которая готова дать очень много, но когда партнер доходил до стадии «А теперь я хочу быть владычицей морскою», я закипала и отношения прекращала.</p>\n  \n  <p>Я понимала, что попадаю в одну и ту же ловушку, но не могла определить – в чем же моя ошибка?</p>\n  \n  <p>Ведь золотая рыбка – она же молодец, это только старуха с её непомерными требованиями ведёт себя неадекватно. Просто рыбке не повезло, что такие люди наглые попадаются на пути, вот и всё.</p>\n  \n  <p><strong style=\"color: #00C8FF;\">Одна только загадка – почему же эти ситуации со мной случаются так часто???</strong></p>\n  \n  <p>В итоге я проанализировала эту историю и поняла, что золотая рыбка тоже виновата.</p>\n  \n  <p>Она не остановила снежный ком нарастающих требований в самом начале, не сказала:</p>\n</article>\n",
-    "author": "инга",
-    "status": "published",
-    "createdAt": "2025-11-16T19:25:11.203Z"
-  },
-  {
-    "id": 1763320750601,
-    "title": "первая статья",
-    "content": "\n<h2>Тестируем связку Forms → n8n → Tilda</h2>\n\n<ul>\n  <li>Пункт 1</li>\n  <li>Пункт 2</li>\n</ul>\n\n<h2>Подзаголовок H2</h2>\n\n<p>Заключительный текст.</p>\n",
-    "author": "инга",
-    "status": "published",
-    "createdAt": "2025-11-16T19:19:10.601Z"
-  },
-  {
-    "id": 1763320002913,
-    "title": "первая статья",
-    "content": "\n<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Тестируем связку Forms → n8n → Tilda</title>\n    <style>\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        \n        body {\n            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n            line-height: 1.8;\n            color: #333;\n            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);\n            padding: 20px;\n        }\n        \n        article {\n            max-width: 900px;\n            margin: 0 auto;\n            background: white;\n            padding: 60px;\n            border-radius: 20px;\n            box-shadow: 0 10px 40px rgba(57, 0, 132, 0.1);\n        }\n        \n        h1 {\n            font-size: 2.5em;\n            color: #390084;\n            margin-bottom: 40px;\n            text-align: center;\n            font-weight: 700;\n            line-height: 1.2;\n        }\n        \n        h2 {\n            font-size: 2em;\n            color: #E9007C;\n            margin: 40px 0 20px 0;\n            padding-bottom: 15px;\n            border-bottom: 3px solid #00C8FF;\n            font-weight: 600;\n        }\n        \n        .highlight-block {\n            background: linear-gradient(135deg, rgba(57, 0, 132, 0.05) 0%, rgba(0, 200, 255, 0.05) 100%);\n            padding: 30px;\n            border-radius: 15px;\n            margin: 30px 0;\n            border-left: 5px solid #390084;\n        }\n        \n        ul {\n            list-style: none;\n            padding-left: 0;\n            margin: 25px 0;\n        }\n        \n        ul li {\n            padding: 15px 20px;\n            margin: 12px 0;\n            background: white;\n            border-left: 4px solid #00C8FF;\n            border-radius: 8px;\n            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);\n            transition: transform 0.3s ease, box-shadow 0.3s ease;\n        }\n        \n        ul li:hover {\n            transform: translateX(10px);\n            box-shadow: 0 5px 20px rgba(233, 0, 124, 0.2);\n            border-left-color: #E9007C;\n        }\n        \n        ul li:before {\n            content: \"✦\";\n            color: #E9007C;\n            font-weight: bold;\n            margin-right: 15px;\n            font-size: 1.2em;\n        }\n        \n        strong {\n            color: #390084;\n            font-weight: 600;\n            background: linear-gradient(120deg, rgba(233, 0, 124, 0.1) 0%, rgba(0, 200, 255, 0.1) 100%);\n            padding: 2px 6px;\n            border-radius: 4px;\n        }\n        \n        p {\n            margin: 20px 0;\n            font-size: 1.1em;\n            color: #555;\n        }\n        \n        @media (max-width: 768px) {\n            article {\n                padding: 30px 20px;\n            }\n            \n            h1 {\n                font-size: 1.8em;\n            }\n            \n            h2 {\n                font-size: 1.5em;\n            }\n        }\n    </style>\n</head>\n<body>\n    <article>\n        <h1>Тестируем связку Forms → n8n → Tilda</h1>\n        \n        <div class=\"highlight-block\">\n            <ul>\n                <li>Пункт 1</li>\n                <li>Пункт 2</li>\n            </ul>\n        </div>\n        \n        <h2>Подзаголовок H2</h2>\n        \n        <p>Заключительный текст.</p>\n    </article>\n</body>\n</html>\n",
-    "author": "инга",
-    "status": "published",
-    "createdAt": "2025-11-16T19:06:42.913Z"
   }
 ]
