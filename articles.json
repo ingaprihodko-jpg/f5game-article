@@ -1,5 +1,13 @@
 [
   {
+    "id": 1763321801710,
+    "title": "первая статья",
+    "content": "```html\n<h2 style=\"color: #390084;\">Тестируем связку Forms → n8n → Tilda</h2>\n\n<ul>\n  <li>Пункт 1</li>\n  <li>Пункт 2</li>\n</ul>\n\n<h2 style=\"color: #390084;\">Подзаголовок H2</h2>\n\n<p>Заключительный текст.</p>\n```",
+    "author": "инга",
+    "status": "published",
+    "createdAt": "2025-11-16T19:36:41.710Z"
+  },
+  {
     "id": 1763321328993,
     "title": "первая статья",
     "content": "<h2 style=\"color: #390084;\">Тестируем связку Forms → n8n → Tilda</h2>\n\n<ul>\n  <li>Пункт 1</li>\n  <li>Пункт 2</li>\n</ul>\n\n<h2 style=\"color: #390084;\">Подзаголовок H2</h2>\n\n<p>Заключительный текст.</p>",
