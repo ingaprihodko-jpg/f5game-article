@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1763283842074,
+    "title": "тест 1",
+    "content": "<h2 style=\"color:#390084;margin:25px 0 15px;\">ПРАВИЛА УСПЕХА</h2><li style=\"margin-left:30px;color:#20BAEF;font-weight:600;\">→  Будьте настойчивы</li><li style=\"margin-left:30px;color:#20BAEF;font-weight:600;\">→  Учитесь каждый день</li><div style=\"background:#fff5f5;border-left:4px solid #ED1E79;padding:20px;margin:20px 0;border-radius:8px;\">\n        <strong style=\"color:#ED1E79;\">Пример:</strong> Мы создали 10 статей и добились результата\n      </div><div style=\"background:#fff5f5;border-left:4px solid #ED1E79;padding:20px;margin:20px 0;border-radius:8px;\">\n        <strong style=\"color:#ED1E79;\">ВАЖНО:</strong> Продолжайте работать!\n      </div>",
+    "status": "published",
+    "createdAt": "2025-11-16T09:04:02.074Z"
+  }
+]
